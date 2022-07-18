@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\bin\Debug\net6.0\Desafio-ClassesDeOperacoes.exe
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\bin\Debug\net6.0\Desafio-ClassesDeOperacoes.deps.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\bin\Debug\net6.0\Desafio-ClassesDeOperacoes.runtimeconfig.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\bin\Debug\net6.0\Desafio-ClassesDeOperacoes.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\bin\Debug\net6.0\Desafio-ClassesDeOperacoes.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\refint\Desafio-ClassesDeOperacoes.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\Desafio-ClassesDeOperacoes.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio-ClassesDeOperacoes\obj\Debug\net6.0\ref\Desafio-ClassesDeOperacoes.dll
