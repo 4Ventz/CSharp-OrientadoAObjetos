@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\bin\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.exe
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\bin\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.deps.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\bin\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.runtimeconfig.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\bin\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\bin\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\refint\Desafio - PersonalizandoUmConstrutor.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\Desafio - PersonalizandoUmConstrutor.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\bytebank_ADM\Desafio - PersonalizandoUmConstrutor\obj\Debug\net6.0\ref\Desafio - PersonalizandoUmConstrutor.dll

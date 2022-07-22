@@ -4,35 +4,34 @@ using bytebank_ADM.Utilitario;
 Console.WriteLine("Boas vindas ao Bytebank Administração.");
 Console.WriteLine();
 
-GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
-GerenciadorDePremioSemestral gerenciadorP = new GerenciadorDePremioSemestral();
+CalcularBonificacao();
 
-Funcionario joao = new Funcionario();
-joao.Nome = "João";
-joao.Cpf = "123456789";
-joao.Salario = 2000;
+void CalcularBonificacao()
+{
+    GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
+    
+    Designer pedro = new Designer("123.456.789-01");
+    pedro.Nome = "Pedro";
 
-Diretor paula = new Diretor();
-paula.Nome = "Paula";
-paula.Cpf = "987654321";
-paula.Salario = 5000;
+    Diretor paula = new Diretor("987.654.321-02");
+    paula.Nome = "Paula";
 
-Funcionario andre = new Diretor(); // Isso é possível pois a classe Diretor recebe herança da classe Funcionário
+    Auxiliar igor = new Auxiliar("123.789.456-03");
+    igor.Nome = "Igor";
 
-Console.WriteLine("Bonificação João: " + joao.GetBonificacao());
-Console.WriteLine("Bonificação Paula: " + paula.GetBonificacao());
-Console.WriteLine();
-Console.WriteLine("Prêmio Semestral João: " + joao.GetPremioSemestral());
-Console.WriteLine("Prêmio Semestral Paula: " + paula.GetPremioSemestral());
-Console.WriteLine();
+    GerenteDeContas camila = new GerenteDeContas("987.321.654-04");
+    camila.Nome = "Camila";
 
-gerenciador.Registrar(joao);
-gerenciadorP.Registrar(joao);
-gerenciador.Registrar(paula);
-gerenciadorP.Registrar(paula);
+    Desenvolvedor samya = new Desenvolvedor("123.654.789-05");
+    samya.Nome = "Samya";
 
+    gerenciador.Registrar(pedro);
+    gerenciador.Registrar(paula);
+    gerenciador.Registrar(igor);
+    gerenciador.Registrar(camila);
+    gerenciador.Registrar(samya);
 
-Console.WriteLine("Total de Bonificação: " + gerenciador.GetBonificacao());
-Console.WriteLine("Premiação Total: " + gerenciadorP.GetPremiacao());
+    Console.WriteLine("Total de Bonificação: R$ " + gerenciador.GetBonificacao());
+}
 
 Console.ReadKey();
